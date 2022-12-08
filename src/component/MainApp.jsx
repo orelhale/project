@@ -3,7 +3,7 @@ import { readFile} from "./allFunction"
 import { useEffect, useState, useRef } from "react"
 import LogoWaitingToServer from "./logoWaitingToServer/LogoWaitingToServer"
 import BasicTable from "./BasicTable";
-
+/// gsghsdlsa
 function MainApp() {
 
     let [allCity, setAllCity] = useState(null);
